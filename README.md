@@ -3,21 +3,21 @@ Sport academy management app using flutter and ODOO.
 
 ## How to run
 
-bash
+```bash
 https://github.com/silkiy/moklet_12RPL1_siakad_2.0.git
-
+```
 
 Install dependencies
-
+```
 bash
 flutter pub get
-
+```
 
 Run the app
 
-bash
+```bash
 flutter run
-
+```
 
 <h2>Built with</h2>
 
@@ -31,15 +31,16 @@ Technologies used in the project:
 - Wildan Silki
 
 api
-bash
+```bash
 http://51.79.136.232:12016/
-
+```
 
 username
-bash
+```bash
 admin
-
+```
 
 password
-bash
+```bash
 123456
+```
