@@ -1,16 +1,45 @@
-# test1
+# Siakad
+Sport academy management app using flutter and ODOO.
 
-A new Flutter project.
+## How to run
 
-## Getting Started
+bash
+https://github.com/silkiy/moklet_12RPL1_siakad_2.0.git
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Install dependencies
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+bash
+flutter pub get
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Run the app
+
+bash
+flutter run
+
+
+<h2>Built with</h2>
+
+Technologies used in the project:
+
+- Flutter
+- GetX
+
+<h2>Authors:</h2>
+
+- Wildan Silki
+
+api
+bash
+http://51.79.136.232:12016/
+
+
+username
+bash
+admin
+
+
+password
+bash
+123456
