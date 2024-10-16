@@ -1,5 +1,5 @@
 # Siakad
-Sport academy management app using flutter and ODOO.
+Siakad moklet app using flutter and ODOO.
 
 ## How to run
 
